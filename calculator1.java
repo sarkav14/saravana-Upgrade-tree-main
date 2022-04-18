@@ -1,10 +1,11 @@
+/* this is firsr commiidt */
 import java.util.Scanner;
 
  public class calculator
   {
     public static void main(String args[])
      {
-       float a, b, res;
+       oat a, b, res;
        char choice, ch;
        Scanner scan = new Scanner(System.in);
 	      
